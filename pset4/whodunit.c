@@ -1,3 +1,11 @@
+/**
+* Ryan Oliver
+* CS50
+* PSET 4 whodunit
+*
+* Removes red pigments from a "clue image" to display the secret message
+*/
+
 #include <stdio.h>
 #include <cs50.h>
 #include <stdlib.h>

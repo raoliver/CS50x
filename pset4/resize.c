@@ -1,4 +1,10 @@
-// Copies a BMP file
+/**
+* Ryan Oliver
+* CS50
+* PSET 4 Resize
+*
+* Resizes a bitmap image to an integer to your choice
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
